@@ -1,0 +1,2920 @@
+{
+    "Schleswig-Holstein": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "01",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,2 H, mindestens aber 3 m"
+            }
+        },
+        "Regierungsbezirke": {
+            "010": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "010",
+                "Kreise": {},
+                "Kreisfreie Staedte": {
+                    "Flensburg": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "01001",
+                        "Gemeinden": {}
+                    },
+                    "Kiel": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "01002",
+                        "Gemeinden": {}
+                    },
+                    "Lübeck": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "01003",
+                        "Gemeinden": {}
+                    },
+                    "Neumünster": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "01004",
+                        "Gemeinden": {}
+                    },
+                    "Dithmarschen": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01051",
+                        "Gemeinden": {}
+                    },
+                    "Herzogtum Lauenburg": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01053",
+                        "Gemeinden": {}
+                    },
+                    "Nordfriesland": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01054",
+                        "Gemeinden": {}
+                    },
+                    "Ostholstein": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01055",
+                        "Gemeinden": {}
+                    },
+                    "Pinneberg": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01056",
+                        "Gemeinden": {}
+                    },
+                    "Plön": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01057",
+                        "Gemeinden": {}
+                    },
+                    "Rendsburg-Eckernförde": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01058",
+                        "Gemeinden": {}
+                    },
+                    "Schleswig-Flensburg": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01059",
+                        "Gemeinden": {}
+                    },
+                    "Segeberg": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01060",
+                        "Gemeinden": {}
+                    },
+                    "Steinburg": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01061",
+                        "Gemeinden": {}
+                    },
+                    "Stormarn": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "01062",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Hamburg": {
+        "Art": "Freie und Hansestadt",
+        "Bundeslandnummer": "02",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,2 H, mindestens aber 3 m"
+            }
+        },
+        "Kreise": {},
+        "Kreisfreie Staedte": {}
+    },
+    "Niedersachsen": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "03",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,25 H",
+                "Kerngebiete/Sondergebiete": "< 0,4 H oder 3 m"
+            }
+        },
+        "Regierungsbezirke": {
+            "031": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "031",
+                "Kreise": {
+                    "Gifhorn": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03151",
+                        "Gemeinden": {}
+                    },
+                    "Goslar": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03153",
+                        "Gemeinden": {}
+                    },
+                    "Helmstedt": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03154",
+                        "Gemeinden": {}
+                    },
+                    "Northeim": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03155",
+                        "Gemeinden": {}
+                    },
+                    "Peine": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03157",
+                        "Gemeinden": {}
+                    },
+                    "Wolfenbüttel": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03158",
+                        "Gemeinden": {}
+                    },
+                    "Göttingen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03159",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Braunschweig": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "03101",
+                        "Gemeinden": {}
+                    },
+                    "Salzgitter": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "03102",
+                        "Gemeinden": {}
+                    },
+                    "Wolfsburg": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "03103",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "032": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "032",
+                "Kreise": {
+                    "Region Hannover": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03241",
+                        "Gemeinden": {}
+                    },
+                    "Diepholz": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03251",
+                        "Gemeinden": {}
+                    },
+                    "Hameln-Pyrmont": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03252",
+                        "Gemeinden": {}
+                    },
+                    "Hildesheim": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03254",
+                        "Gemeinden": {}
+                    },
+                    "Holzminden": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03255",
+                        "Gemeinden": {}
+                    },
+                    "Nienburg (Weser)": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03256",
+                        "Gemeinden": {}
+                    },
+                    "Schaumburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03257",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {}
+            },
+            "033": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "033",
+                "Kreise": {
+                    "Celle": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03351",
+                        "Gemeinden": {}
+                    },
+                    "Cuxhaven": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03352",
+                        "Gemeinden": {}
+                    },
+                    "Harburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03353",
+                        "Gemeinden": {}
+                    },
+                    "Lüchow-Dannenberg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03354",
+                        "Gemeinden": {}
+                    },
+                    "Lüneburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03355",
+                        "Gemeinden": {}
+                    },
+                    "Osterholz": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03356",
+                        "Gemeinden": {}
+                    },
+                    "Rotenburg (Wümme)": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03357",
+                        "Gemeinden": {}
+                    },
+                    "Heidekreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03358",
+                        "Gemeinden": {}
+                    },
+                    "Stade": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03359",
+                        "Gemeinden": {}
+                    },
+                    "Uelzen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03360",
+                        "Gemeinden": {}
+                    },
+                    "Verden": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03361",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {}
+            },
+            "034": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "034",
+                "Kreise": {
+                    "Ammerland": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03451",
+                        "Gemeinden": {}
+                    },
+                    "Aurich": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03452",
+                        "Gemeinden": {}
+                    },
+                    "Cloppenburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03453",
+                        "Gemeinden": {}
+                    },
+                    "Emsland": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03454",
+                        "Gemeinden": {}
+                    },
+                    "Friesland": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03455",
+                        "Gemeinden": {}
+                    },
+                    "Grafschaft Bentheim": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03456",
+                        "Gemeinden": {}
+                    },
+                    "Leer": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03457",
+                        "Gemeinden": {}
+                    },
+                    "Oldenburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03458",
+                        "Gemeinden": {}
+                    },
+                    "Osnabrück": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03459",
+                        "Gemeinden": {}
+                    },
+                    "Vechta": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03460",
+                        "Gemeinden": {}
+                    },
+                    "Wesermarsch": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03461",
+                        "Gemeinden": {}
+                    },
+                    "Wittmund": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "03462",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Delmenhorst": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "03401",
+                        "Gemeinden": {}
+                    },
+                    "Emden": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "03402",
+                        "Gemeinden": {}
+                    },
+                    "Oldenburg (Oldb)": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "03403",
+                        "Gemeinden": {}
+                    },
+                    "Osnabrück": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "03404",
+                        "Gemeinden": {}
+                    },
+                    "Wilhelmshaven": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "03405",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Bremen": {
+        "Art": "Freie Hansestadt",
+        "Bundeslandnummer": "04",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,2 H, mindestens aber 3 m"
+            }
+        },
+        "Kreise": {},
+        "Kreisfreie Staedte": {}
+    },
+    "Nordrhein-Westfalen": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "05",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H oder 3 m",
+                "Gewerbe-/Industriegebiete": "0,2 H oder 3 m",
+                "Kerngebiete": "0,25 H oder 3 m",
+                "Wohngebäude": "3 m"
+            }
+        },
+        "Regierungsbezirke": {
+            "Düsseldorf": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "051"
+            },
+            "Köln": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "053"
+            },
+            "Münster": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "055"
+            },
+            "Detmold": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "057"
+            },
+            "Arnsberg": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "059"
+            },
+            "051": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "051",
+                "Kreise": {},
+                "Kreisfreie Staedte": {
+                    "Düsseldorf": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05111",
+                        "Gemeinden": {}
+                    },
+                    "Duisburg": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05112",
+                        "Gemeinden": {}
+                    },
+                    "Essen": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05113",
+                        "Gemeinden": {}
+                    },
+                    "Krefeld": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05114",
+                        "Gemeinden": {}
+                    },
+                    "Mönchengladbach": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05116",
+                        "Gemeinden": {}
+                    },
+                    "Mülheim an der Ruhr": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05117",
+                        "Gemeinden": {}
+                    },
+                    "Oberhausen": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05119",
+                        "Gemeinden": {}
+                    },
+                    "Remscheid": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05120",
+                        "Gemeinden": {}
+                    },
+                    "Solingen": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05122",
+                        "Gemeinden": {}
+                    },
+                    "Wuppertal": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05124",
+                        "Gemeinden": {}
+                    },
+                    "Kleve": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05154",
+                        "Gemeinden": {}
+                    },
+                    "Mettmann": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05158",
+                        "Gemeinden": {}
+                    },
+                    "Rhein-Kreis Neuss": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05162",
+                        "Gemeinden": {}
+                    },
+                    "Viersen": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05166",
+                        "Gemeinden": {}
+                    },
+                    "Wesel": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05170",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "053": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "053",
+                "Kreise": {},
+                "Kreisfreie Staedte": {
+                    "Bonn": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05314",
+                        "Gemeinden": {}
+                    },
+                    "Köln": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05315",
+                        "Gemeinden": {}
+                    },
+                    "Leverkusen": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05316",
+                        "Gemeinden": {}
+                    },
+                    "Städteregion Aachen": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05334",
+                        "Gemeinden": {}
+                    },
+                    "Düren": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05358",
+                        "Gemeinden": {}
+                    },
+                    "Rhein-Erft-Kreis": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05362",
+                        "Gemeinden": {}
+                    },
+                    "Euskirchen": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05366",
+                        "Gemeinden": {}
+                    },
+                    "Heinsberg": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05370",
+                        "Gemeinden": {}
+                    },
+                    "Oberbergischer Kreis": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05374",
+                        "Gemeinden": {}
+                    },
+                    "Rheinisch-Bergischer Kreis": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05378",
+                        "Gemeinden": {}
+                    },
+                    "Rhein-Sieg-Kreis": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05382",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "055": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "055",
+                "Kreise": {},
+                "Kreisfreie Staedte": {
+                    "Bottrop": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05512",
+                        "Gemeinden": {}
+                    },
+                    "Gelsenkirchen": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05513",
+                        "Gemeinden": {}
+                    },
+                    "Münster": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05515",
+                        "Gemeinden": {}
+                    },
+                    "Borken": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05554",
+                        "Gemeinden": {}
+                    },
+                    "Coesfeld": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05558",
+                        "Gemeinden": {}
+                    },
+                    "Recklinghausen": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05562",
+                        "Gemeinden": {}
+                    },
+                    "Steinfurt": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05566",
+                        "Gemeinden": {}
+                    },
+                    "Warendorf": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05570",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "057": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "057",
+                "Kreise": {},
+                "Kreisfreie Staedte": {
+                    "Bielefeld": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05711",
+                        "Gemeinden": {}
+                    },
+                    "Gütersloh": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05754",
+                        "Gemeinden": {}
+                    },
+                    "Herford": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05758",
+                        "Gemeinden": {}
+                    },
+                    "Höxter": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05762",
+                        "Gemeinden": {}
+                    },
+                    "Lippe": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05766",
+                        "Gemeinden": {}
+                    },
+                    "Minden-Lübbecke": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05770",
+                        "Gemeinden": {}
+                    },
+                    "Paderborn": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05774",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "059": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "059",
+                "Kreise": {},
+                "Kreisfreie Staedte": {
+                    "Bochum": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05911",
+                        "Gemeinden": {}
+                    },
+                    "Dortmund": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05913",
+                        "Gemeinden": {}
+                    },
+                    "Hagen": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05914",
+                        "Gemeinden": {}
+                    },
+                    "Hamm": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05915",
+                        "Gemeinden": {}
+                    },
+                    "Herne": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "05916",
+                        "Gemeinden": {}
+                    },
+                    "Ennepe-Ruhr-Kreis": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05954",
+                        "Gemeinden": {}
+                    },
+                    "Hochsauerlandkreis": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05958",
+                        "Gemeinden": {}
+                    },
+                    "Märkischer Kreis": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05962",
+                        "Gemeinden": {}
+                    },
+                    "Olpe": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05966",
+                        "Gemeinden": {}
+                    },
+                    "Siegen-Wittgenstein": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05970",
+                        "Gemeinden": {}
+                    },
+                    "Soest": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05974",
+                        "Gemeinden": {}
+                    },
+                    "Unna": {
+                        "Art": "Kreis",
+                        "Kreis- / Stadtschlüssel": "05978",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Hessen": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "06",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "1,50 m oder 3 m je nach Feuerbeständigkeit und Material",
+                "in speziellen Gebieten": "0,2 H für Gewerbe-/Industriegebiete, Windkraft-/Antennenanlagen"
+            }
+        },
+        "Regierungsbezirke": {
+            "Darmstadt": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "064"
+            },
+            "Gießen": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "065"
+            },
+            "Kassel": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "066"
+            },
+            "064": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "064",
+                "Kreise": {
+                    "Bergstraße": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06431",
+                        "Gemeinden": {}
+                    },
+                    "Darmstadt-Dieburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06432",
+                        "Gemeinden": {}
+                    },
+                    "Groß-Gerau": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06433",
+                        "Gemeinden": {}
+                    },
+                    "Hochtaunuskreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06434",
+                        "Gemeinden": {}
+                    },
+                    "Main-Kinzig-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06435",
+                        "Gemeinden": {}
+                    },
+                    "Main-Taunus-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06436",
+                        "Gemeinden": {}
+                    },
+                    "Odenwaldkreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06437",
+                        "Gemeinden": {}
+                    },
+                    "Offenbach": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06438",
+                        "Gemeinden": {}
+                    },
+                    "Rheingau-Taunus-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06439",
+                        "Gemeinden": {}
+                    },
+                    "Wetteraukreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06440",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Darmstadt": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "06411",
+                        "Gemeinden": {}
+                    },
+                    "Frankfurt am Main": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "06412",
+                        "Gemeinden": {}
+                    },
+                    "Offenbach am Main": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "06413",
+                        "Gemeinden": {}
+                    },
+                    "Wiesbaden": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "06414",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "065": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "065",
+                "Kreise": {
+                    "Gießen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06531",
+                        "Gemeinden": {}
+                    },
+                    "Lahn-Dill-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06532",
+                        "Gemeinden": {}
+                    },
+                    "Limburg-Weilburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06533",
+                        "Gemeinden": {}
+                    },
+                    "Marburg-Biedenkopf": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06534",
+                        "Gemeinden": {}
+                    },
+                    "Vogelsbergkreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06535",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {}
+            },
+            "066": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "066",
+                "Kreise": {
+                    "Fulda": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06631",
+                        "Gemeinden": {}
+                    },
+                    "Hersfeld-Rotenburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06632",
+                        "Gemeinden": {}
+                    },
+                    "Kassel": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06633",
+                        "Gemeinden": {}
+                    },
+                    "Schwalm-Eder-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06634",
+                        "Gemeinden": {}
+                    },
+                    "Waldeck-Frankenberg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06635",
+                        "Gemeinden": {}
+                    },
+                    "Werra-Meißner-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "06636",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Kassel": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "06611",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Rheinland-Pfalz": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "07",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,25 H, mindestens aber 3 m",
+                "Kerngebiete/Sondergebiete": "0,4 H oder 3 m"
+            }
+        },
+        "Regierungsbezirke": {
+            "071": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "071",
+                "Kreise": {
+                    "Ahrweiler": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07131",
+                        "Gemeinden": {}
+                    },
+                    "Altenkirchen (Westerwald)": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07132",
+                        "Gemeinden": {}
+                    },
+                    "Bad Kreuznach": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07133",
+                        "Gemeinden": {}
+                    },
+                    "Birkenfeld": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07134",
+                        "Gemeinden": {}
+                    },
+                    "Cochem-Zell": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07135",
+                        "Gemeinden": {}
+                    },
+                    "Mayen-Koblenz": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07137",
+                        "Gemeinden": {}
+                    },
+                    "Neuwied": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07138",
+                        "Gemeinden": {}
+                    },
+                    "Rhein-Hunsrück-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07140",
+                        "Gemeinden": {}
+                    },
+                    "Rhein-Lahn-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07141",
+                        "Gemeinden": {}
+                    },
+                    "Westerwaldkreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07143",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Koblenz": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07111",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "072": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "072",
+                "Kreise": {
+                    "Bernkastel-Wittlich": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07231",
+                        "Gemeinden": {}
+                    },
+                    "Eifelkreis Bitburg-Prüm": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07232",
+                        "Gemeinden": {}
+                    },
+                    "Vulkaneifel": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07233",
+                        "Gemeinden": {}
+                    },
+                    "Trier-Saarburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07235",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Trier": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07211",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "073": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "073",
+                "Kreise": {
+                    "Alzey-Worms": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07331",
+                        "Gemeinden": {}
+                    },
+                    "Bad Dürkheim": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07332",
+                        "Gemeinden": {}
+                    },
+                    "Donnersbergkreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07333",
+                        "Gemeinden": {}
+                    },
+                    "Germersheim": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07334",
+                        "Gemeinden": {}
+                    },
+                    "Kaiserslautern": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07335",
+                        "Gemeinden": {}
+                    },
+                    "Kusel": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07336",
+                        "Gemeinden": {}
+                    },
+                    "Südliche Weinstraße": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07337",
+                        "Gemeinden": {}
+                    },
+                    "Rhein-Pfalz-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07338",
+                        "Gemeinden": {}
+                    },
+                    "Mainz-Bingen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07339",
+                        "Gemeinden": {}
+                    },
+                    "Südwestpfalz": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "07340",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Frankenthal (Pfalz)": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07311",
+                        "Gemeinden": {}
+                    },
+                    "Kaiserslautern": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07312",
+                        "Gemeinden": {}
+                    },
+                    "Landau in der Pfalz": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07313",
+                        "Gemeinden": {}
+                    },
+                    "Ludwigshafen am Rhein": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07314",
+                        "Gemeinden": {}
+                    },
+                    "Mainz": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07315",
+                        "Gemeinden": {}
+                    },
+                    "Neustadt an der Weinstraße": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07316",
+                        "Gemeinden": {}
+                    },
+                    "Pirmasens": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07317",
+                        "Gemeinden": {}
+                    },
+                    "Speyer": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07318",
+                        "Gemeinden": {}
+                    },
+                    "Worms": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07319",
+                        "Gemeinden": {}
+                    },
+                    "Zweibrücken": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "07320",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Baden-Württemberg": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "08",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H (min 2,5 m, bei ≤ 5 m Breite min 2 m)",
+                "Kerngebieten, Dorfgebieten, urbanen Gebieten, besonderen Wohngebieten und bei Antennenanlagen": "0,2 H",
+                "Gewerbegebieten und Industriegebieten sowie in Sondergebieten, die nicht der Erholung dienen": "0,125 H"
+            }
+        },
+        "Regierungsbezirke": {
+            "Stuttgart": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "081"
+            },
+            "Karlsruhe": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "082"
+            },
+            "Freiburg": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "083"
+            },
+            "Tübingen": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "084"
+            },
+            "081": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "081",
+                "Kreise": {
+                    "Böblingen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08115",
+                        "Gemeinden": {}
+                    },
+                    "Esslingen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08116",
+                        "Gemeinden": {}
+                    },
+                    "Göppingen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08117",
+                        "Gemeinden": {}
+                    },
+                    "Ludwigsburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08118",
+                        "Gemeinden": {}
+                    },
+                    "Rems-Murr-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08119",
+                        "Gemeinden": {}
+                    },
+                    "Heilbronn": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08125",
+                        "Gemeinden": {}
+                    },
+                    "Hohenlohekreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08126",
+                        "Gemeinden": {}
+                    },
+                    "Schwäbisch Hall": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08127",
+                        "Gemeinden": {}
+                    },
+                    "Main-Tauber-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08128",
+                        "Gemeinden": {}
+                    },
+                    "Heidenheim": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08135",
+                        "Gemeinden": {}
+                    },
+                    "Ostalbkreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08136",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Stuttgart": {
+                        "Art": "Stadtkreis",
+                        "Kreis- / Stadtschlüssel": "08111",
+                        "Gemeinden": {}
+                    },
+                    "Heilbronn": {
+                        "Art": "Stadtkreis",
+                        "Kreis- / Stadtschlüssel": "08121",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "082": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "082",
+                "Kreise": {
+                    "Karlsruhe": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08215",
+                        "Gemeinden": {}
+                    },
+                    "Rastatt": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08216",
+                        "Gemeinden": {}
+                    },
+                    "Neckar-Odenwald-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08225",
+                        "Gemeinden": {}
+                    },
+                    "Rhein-Neckar-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08226",
+                        "Gemeinden": {}
+                    },
+                    "Calw": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08235",
+                        "Gemeinden": {}
+                    },
+                    "Enzkreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08236",
+                        "Gemeinden": {}
+                    },
+                    "Freudenstadt": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08237",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Baden-Baden": {
+                        "Art": "Stadtkreis",
+                        "Kreis- / Stadtschlüssel": "08211",
+                        "Gemeinden": {}
+                    },
+                    "Karlsruhe": {
+                        "Art": "Stadtkreis",
+                        "Kreis- / Stadtschlüssel": "08212",
+                        "Gemeinden": {}
+                    },
+                    "Heidelberg": {
+                        "Art": "Stadtkreis",
+                        "Kreis- / Stadtschlüssel": "08221",
+                        "Gemeinden": {}
+                    },
+                    "Mannheim": {
+                        "Art": "Stadtkreis",
+                        "Kreis- / Stadtschlüssel": "08222",
+                        "Gemeinden": {}
+                    },
+                    "Pforzheim": {
+                        "Art": "Stadtkreis",
+                        "Kreis- / Stadtschlüssel": "08231",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "083": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "083",
+                "Kreise": {
+                    "Breisgau-Hochschwarzwald": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08315",
+                        "Gemeinden": {}
+                    },
+                    "Emmendingen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08316",
+                        "Gemeinden": {}
+                    },
+                    "Ortenaukreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08317",
+                        "Gemeinden": {}
+                    },
+                    "Rottweil": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08325",
+                        "Gemeinden": {}
+                    },
+                    "Schwarzwald-Baar-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08326",
+                        "Gemeinden": {}
+                    },
+                    "Tuttlingen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08327",
+                        "Gemeinden": {}
+                    },
+                    "Konstanz": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08335",
+                        "Gemeinden": {}
+                    },
+                    "Lörrach": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08336",
+                        "Gemeinden": {}
+                    },
+                    "Waldshut": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08337",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Freiburg im Breisgau": {
+                        "Art": "Stadtkreis",
+                        "Kreis- / Stadtschlüssel": "08311",
+                        "Gemeinden": {}
+                    }
+                }
+            },
+            "084": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "084",
+                "Kreise": {
+                    "Reutlingen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08415",
+                        "Gemeinden": {}
+                    },
+                    "Tübingen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08416",
+                        "Gemeinden": {}
+                    },
+                    "Zollernalbkreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08417",
+                        "Gemeinden": {}
+                    },
+                    "Alb-Donau-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08425",
+                        "Gemeinden": {}
+                    },
+                    "Biberach": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08426",
+                        "Gemeinden": {}
+                    },
+                    "Bodenseekreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08435",
+                        "Gemeinden": {}
+                    },
+                    "Ravensburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08436",
+                        "Gemeinden": {}
+                    },
+                    "Sigmaringen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "08437",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Ulm": {
+                        "Art": "Stadtkreis",
+                        "Kreis- / Stadtschlüssel": "08421",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Bayern": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "09",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,2 H, mindestens aber 3 m",
+                "Gemeinden mit mehr als 250 000 Einwohnern (außerhalb spezieller Gebiete)": "1 H, mindestens jedoch 3 m",
+                "Vor zwei Außenwänden von nicht mehr als 16 m Länge (in großen Gemeinden außerhalb spezieller Gebiete)": "0,5 H, mindestens jedoch 3 m"
+            }
+        },
+        "Regierungsbezirke": {}
+    },
+    "Saarland": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "10",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Wohngebäude Klasse 1 & 2": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,2 H, mindestens aber 3 m",
+                "Kerngebiete/Sondergebiete": "0,4 H oder 3 m"
+            }
+        },
+        "Regierungsbezirke": {
+            "100": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "100",
+                "Kreise": {
+                    "Regionalverband Saarbrücken": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "10041",
+                        "Gemeinden": {}
+                    },
+                    "Merzig-Wadern": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "10042",
+                        "Gemeinden": {}
+                    },
+                    "Neunkirchen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "10043",
+                        "Gemeinden": {}
+                    },
+                    "Saarlouis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "10044",
+                        "Gemeinden": {}
+                    },
+                    "Saarpfalz-Kreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "10045",
+                        "Gemeinden": {}
+                    },
+                    "St. Wendel": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "10046",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {}
+            }
+        }
+    },
+    "Berlin": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "11",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,2 H, mindestens aber 3 m"
+            }
+        },
+        "Regierungsbezirke": {
+            "110": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "110",
+                "Kreise": {},
+                "Kreisfreie Staedte": {
+                    "Berlin": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "11000",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Brandenburg": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "12",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete/Kerngebiete/Sondergebiete": "0,25 H, mindestens aber 3 m",
+                "Vor Außenwänden ohne Fenster für Aufenthaltsräume": "0,4 H, mindestens aber 3 m"
+            }
+        },
+        "Regierungsbezirke": {
+            "120": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "120",
+                "Kreise": {
+                    "Barnim": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12060",
+                        "Gemeinden": {}
+                    },
+                    "Dahme-Spreewald": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12061",
+                        "Gemeinden": {}
+                    },
+                    "Elbe-Elster": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12062",
+                        "Gemeinden": {}
+                    },
+                    "Havelland": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12063",
+                        "Gemeinden": {}
+                    },
+                    "Märkisch-Oderland": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12064",
+                        "Gemeinden": {}
+                    },
+                    "Oberhavel": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12065",
+                        "Gemeinden": {}
+                    },
+                    "Oberspreewald-Lausitz": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12066",
+                        "Gemeinden": {}
+                    },
+                    "Oder-Spree": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12067",
+                        "Gemeinden": {}
+                    },
+                    "Ostprignitz-Ruppin": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12068",
+                        "Gemeinden": {}
+                    },
+                    "Potsdam-Mittelmark": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12069",
+                        "Gemeinden": {}
+                    },
+                    "Prignitz": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12070",
+                        "Gemeinden": {}
+                    },
+                    "Spree-Neiße": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12071",
+                        "Gemeinden": {}
+                    },
+                    "Teltow-Fläming": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12072",
+                        "Gemeinden": {}
+                    },
+                    "Uckermark": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "12073",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Brandenburg an der Havel": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "12051",
+                        "Gemeinden": {}
+                    },
+                    "Cottbus": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "12052",
+                        "Gemeinden": {}
+                    },
+                    "Frankfurt (Oder)": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "12053",
+                        "Gemeinden": {}
+                    },
+                    "Potsdam": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "12054",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Mecklenburg-Vorpommern": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "13",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,2 H, mindestens aber 3 m"
+            }
+        },
+        "Regierungsbezirke": {
+            "130": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "130",
+                "Kreise": {
+                    "Mecklenburgische Seenplatte": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "13071",
+                        "Gemeinden": {}
+                    },
+                    "Rostock": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "13072",
+                        "Gemeinden": {}
+                    },
+                    "Vorpommern-Rügen": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "13073",
+                        "Gemeinden": {}
+                    },
+                    "Nordwestmecklenburg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "13074",
+                        "Gemeinden": {}
+                    },
+                    "Vorpommern-Greifswald": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "13075",
+                        "Gemeinden": {}
+                    },
+                    "Ludwigslust-Parchim": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "13076",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Rostock": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "13003",
+                        "Gemeinden": {}
+                    },
+                    "Schwerin": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "13004",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Sachsen": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "14",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {}
+        },
+        "Regierungsbezirke": {}
+    },
+    "Sachsen-Anhalt": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "15",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Wohngebäude Klasse 1 & 2": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebieten": "0,2 H, mindestens aber 3 m",
+                "Windenergieanlagen Außenbereich": "0.1H, mindestens aber 3m",
+                "Wohngebäude Klasse 1 & 2 bis zu drei oberirdischen Geschossen": "3m"
+            }
+        },
+        "Regierungsbezirke": {
+            "150": {
+                "Art": "Regierungsbezirk",
+                "Regierungsbezirknummer": "150",
+                "Kreise": {
+                    "Altmarkkreis Salzwedel": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15081",
+                        "Gemeinden": {}
+                    },
+                    "Anhalt-Bitterfeld": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15082",
+                        "Gemeinden": {}
+                    },
+                    "Börde": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15083",
+                        "Gemeinden": {}
+                    },
+                    "Burgenlandkreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15084",
+                        "Gemeinden": {}
+                    },
+                    "Harz": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15085",
+                        "Gemeinden": {}
+                    },
+                    "Jerichower Land": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15086",
+                        "Gemeinden": {}
+                    },
+                    "Mansfeld-Südharz": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15087",
+                        "Gemeinden": {}
+                    },
+                    "Saalekreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15088",
+                        "Gemeinden": {}
+                    },
+                    "Salzlandkreis": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15089",
+                        "Gemeinden": {}
+                    },
+                    "Stendal": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15090",
+                        "Gemeinden": {}
+                    },
+                    "Wittenberg": {
+                        "Art": "Landkreis",
+                        "Kreis- / Stadtschlüssel": "15091",
+                        "Gemeinden": {}
+                    }
+                },
+                "Kreisfreie Staedte": {
+                    "Dessau-Roßlau": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "15001",
+                        "Gemeinden": {}
+                    },
+                    "Halle (Saale)": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "15002",
+                        "Gemeinden": {}
+                    },
+                    "Magdeburg": {
+                        "Art": "Kreisfreie Stadt",
+                        "Kreis- / Stadtschlüssel": "15003",
+                        "Gemeinden": {}
+                    }
+                }
+            }
+        }
+    },
+    "Thüringen": {
+        "Art": "Bundesland",
+        "Bundeslandnummer": "16",
+        "BauNVO": {
+            "Baugebiet": {
+              "Kleinsiedlungsgebieten (WS)": {
+                "GRZ": "0,2",
+                "GFZ": "0,4",
+                "BMZ": "N/A"
+              },
+              "reinen Wohngebieten (WR)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "allgemeinen Wohngebieten (WA)": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Ferienhausgebieten": {
+                "GRZ": "0,4",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "besonderen Wohngebieten (WB)": {
+                "GRZ": "0,6",
+                "GFZ": "1,6",
+                "BMZ": "N/A"
+              },
+              "Dorfgebieten (MD)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "Mischgebieten (MI)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "dörflichen Wohngebieten (MDW)": {
+                "GRZ": "0,6",
+                "GFZ": "1,2",
+                "BMZ": "N/A"
+              },
+              "urbanen Gebieten (MU)": {
+                "GRZ": "0,8",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Kerngebieten (MK)": {
+                "GRZ": "1",
+                "GFZ": "3",
+                "BMZ": "N/A"
+              },
+              "Gewerbegebieten (GE)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Industriegebieten (GI)": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "sonstigen Sondergebieten": {
+                "GRZ": "0,8",
+                "GFZ": "2,4",
+                "BMZ": "10"
+              },
+              "Wochenendhausgebieten": {
+                "GRZ": "0,2",
+                "GFZ": "0,2",
+                "BMZ": "N/A"
+              }
+            },
+            "Abstandflaeche": {
+                "Allgemein": "0,4 H, mindestens aber 3 m",
+                "Gewerbe- und Industriegebiete": "0,2 H, mindestens aber 3 m",
+                "Wohngebäude Klasse 1 und 2": "3 m"
+            }
+        },
+        "Regierungsbezirke": {}
+    }
+}
